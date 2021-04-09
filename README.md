@@ -5,8 +5,10 @@ Student Information Sciences
 # Introduction
 This repository contains the data collected for the study of the manipulative design (dark patterns) regarding cookie consent notices. The repository contains raw data and coded data of Dutch news outlets.
 
+
 # Raw Data
 This section of the repository contains screenshots of the visited websites. These screenshots provide information regarding the purposes and UI of the cookies. Every individual website is linked to a folder.
+
 
 # Coded Data
 This section of the repository contains the following (tabular) data:
