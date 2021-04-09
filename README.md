@@ -1,3 +1,11 @@
+Mujtaba Alemi
+
+2621665 / mai343
+
+m.m2.alemi@student.vu.nl
+
+Student Information Sciences
+
 # Introduction
 This repository contains the data collected for the study of the manipulative design (dark patterns) regarding cookie consent notices. The repository contains raw data and coded data of Dutch news outlets.
 
