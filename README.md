@@ -1,9 +1,5 @@
 Mujtaba Alemi
 
-2621665 / mai343
-
-m.m2.alemi@student.vu.nl
-
 Student Information Sciences
 
 # Introduction
