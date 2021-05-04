@@ -1,6 +1,8 @@
-Mujtaba Alemi
+Mujtaba Alemi [2621665]
 
 Student Information Sciences
+
+Vrije Universiteit Amsterdam
 
 # Introduction
 This repository contains the data collected for the study of the manipulative design (dark patterns) regarding cookie consent notices. The repository contains raw data and coded data of Dutch news outlets.
