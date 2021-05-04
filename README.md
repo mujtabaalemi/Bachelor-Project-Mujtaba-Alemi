@@ -24,9 +24,9 @@ This section of the repository contains the following (tabular) data:
 8. Location consent notice - Where is the consent notice located on the website
 9. Content visibility - Is the content of the website still visibile when the consent notice appears
 10. Immediate visibility "No" option - Answered with a yes or no
-11. Number of clicks needed for the "No" option to appear - Excludes the "No" click
+11. Number of clicks needed (for the "No" option to appear) - Excludes the "No" click
 12. Information on type of cookies - Does the consent notice provide information about what cookies are used
 13. Third-party involved - If yes, raw data is provided on the third party (refer to key)
 14. Accessible after "No" option - Does the website still provide access after denying the cookie consent
-15. Dark Pattern Strategy- Which dark pattern strategy is used
+15. Dark Pattern Strategy - Which dark pattern strategy is used
 16. "Are you sure" message - Does the website require you to rethink your decision
