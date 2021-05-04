@@ -22,7 +22,7 @@ This section of the repository contains the following (tabular) data:
 6. Label of "No" option - Answer only if there is a "No" option available
 7. "No" option similarity - Is the "No" option similar to the "Yes" option
 8. Location consent notice - Where is the consent notice located on the website
-9. Content visibility - Is the content of the website still visibile when the consent notice appears
+9. Content visibility - Is the content of the website still visible when the consent notice appears
 10. Immediate visibility "No" option - Answered with a yes or no
 11. Number of clicks needed (for the "No" option to appear) - Excludes the "No" click
 12. Information on type of cookies - Does the consent notice provide information about what cookies are used
