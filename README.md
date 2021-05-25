@@ -8,11 +8,11 @@ Vrije Universiteit Amsterdam
 This repository contains the data collected for the study of the manipulative design (dark patterns) regarding cookie consent notices. The research is separated into two parts. The first part consists of data collection and analysing concerning the use of a laptop. The second part consists of comparing results of cookie consent notices collected through mobile devices against the results of the first part. This research will focus mainly on consent notices regarding Dutch news platforms. Therefore, consent pop-ups from ± 30 Dutch news outlets will be manually collected and analysed. The outline of the repository is as follows.
 
 
-# Raw Data
+## Raw Data
 This section of the repository will contain screenshots of the visited websites. These screenshots will provide information about the cookies and user interface. Every website accessed will have its folder
 
 
-# Coded Data
+## Coded Data
 desktop.csv / mobiledevice.csv
 
 This section of the repository will contain tabular data of the visited websites. This  data  is  captured  manually  and  will  provide  information  about manipulative design. This will be provided in the following order.
