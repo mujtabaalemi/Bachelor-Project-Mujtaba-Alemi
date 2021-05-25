@@ -24,10 +24,10 @@ This section of the repository will contain tabular data of the visited websites
 5. "not-yes" option - Is there a "not-yes" option available?
 6. Label of "not-yes" option - Answer only if there is a "not-yes" option available.
 7. "not-yes" option similarity - Is the "not-yes" option similar to the "yes" option?
-8. Location consent notice - Where is the consent notice located on the website.
-9. Content visibility - Is the content of the website still visible when the consent notice appears?
-10. Immediate visibility "not-yes" option - Answered with a yes or no
-11. The number of clicks needed (for the "not-yes" option) - this is the total number of clicks needed to deny all types of cookies.
+8. Immediate visibility "not-yes" option - Answered with a yes or no
+9. The number of clicks needed (for the "not-yes" option) - this is the total number of clicks needed to deny all types of cookies.
+10. Location consent notice - Where is the consent notice located on the website.
+11. Content visibility - Is the content of the website still visible when the consent notice appears?
 12. Information on the type of cookies - Does the consent notice provide information about what cookies are used?
 13. Third-party involved? - If yes, raw data is provided on the third party (refer to key).
 14. Accessible after rejection - Does the website still provide access after denying the cookie consent after the "No" option?
