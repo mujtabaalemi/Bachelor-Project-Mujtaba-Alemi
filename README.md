@@ -15,7 +15,7 @@ This section of the repository will contain screenshots of the visited websites.
 # Coded Data
 desktop.csv / mobiledevice.csv
 
-This section of the repository will contain tabular data of the visited websites. This  data  is  captured  manually  and  will  provide  information  about manipulative design.
+This section of the repository will contain tabular data of the visited websites. This  data  is  captured  manually  and  will  provide  information  about manipulative design. This will be provided in the following order.
 
 1. Key - Key to the folder that contains the raw data.
 2. Link - The link to the visited website.
