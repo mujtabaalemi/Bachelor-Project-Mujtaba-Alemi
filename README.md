@@ -13,7 +13,7 @@ This section of the repository will contain screenshots of the visited websites.
 
 
 ## Coded Data
-desktop.csv / mobiledevice.csv
+Desktop.csv / Smartphone.csv
 
 This section of the repository will contain tabular data of the visited websites. This  data  is  captured  manually  and  will  provide  information  about manipulative design. This will be provided in the following order.
 
