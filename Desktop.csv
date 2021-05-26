@@ -1,0 +1,32 @@
+﻿Key,Link,Country,Type of website,"""not-yes"" option available","label of ""not-yes option""","""not-yes"" option similarity",Immediate visibility deny option,Number of clicks needed to deny consent,Accessibility after deny option,Location consent notice,Content visibility,Third-party involved,Dark pattern strategy,"""are you sure"" message"
+AD,https://www.ad.nl/,The Netherlands,News Outlet,Yes,Instellen,Smaller,"No, link",2,Yes,Centre,Less Visible,"Yes, DPG Media",Forced Action,No
+Beveiligingnieuws,https://beveiligingnieuws.nl/,The Netherlands,News Outlet,Yes,Meer informatie,Hidden in info and small,"No, link",N/A,No,Centre,Less Visible,No,"""not-yes"" does not work",No
+Boerenbusiness,https://www.boerenbusiness.nl/,The Netherlands,News Outlet,Yes,cookiebeleid,Hidden and bold,No,N/A,No,Bottom,Yes,No,"""not-yes"" does not work",No
+Computable,https://www.computable.nl/,The Netherlands,News Outlet,Yes,Weigeren,"Smaller, no box",Yes,1,Yes,Bottom,Yes,No,Interface inference (color),No
+Detelegraaf,https://www.telegraaf.nl/,The Netherlands,News Outlet,Yes,Stel voorkeuren in,Less intruiging color choice,"No, link",7,Yes,Centre,Less Visible,"Yes, Mediahuis Nederland",Forced Action,No
+DeVolkskrant,https://www.devolkskrant.nl,The Netherlands,News Outlet,Yes,Instellen,Smaller,"No, link",2,Yes,Centre,Less Visible,"Yes, DPG Media",Forced Action,No
+Dutchcowboys,https://www.dutchcowboys.nl/,The Netherlands,News Outlet,Yes,Niet Akkoord,Less intruiging color choice,Yes,1,Yes,Bottom,Yes,No,Interface inference (color),No
+Emerce,https://www.emerce.nl/,The Netherlands,News Outlet,No,N/A,N/A,Yes,1,Yes,Left,Yes,No,Nagging,No
+Events,https://www.events.nl/nieuws,The Netherlands,News Outlet,No,N/A,N/A,N/A,N/A,No,Bottom,Yes,No,Obstruction,No
+Googlenews,https://www.news.google.nl,United States,News Outlet,Yes,Aanpassen,Similar,"No, link",5,Yes,Whole Screen,No,No,Forced Action,No
+Groenlinks,https://groenlinks.nl/nieuws,The Netherlands,News Outlet,Yes,Lees meer en stel voorkeuren in,Hidden in info and small,"No, link",3,Yes,Bottom,Yes,No,Sneaking,No
+Haarlemsdagblad,https://www.haarlemsdagblad.nl/,The Netherlands,News Outlet,Yes,Stel voorkeuren in,Less intruiging color choice,"No, link",7,Yes,Centre,Less Visible,"Yes, Mediahuis Nederland",Forced Action,No
+KNVB,https://www.knvb.nl/knvb_node/nieuws,The Netherlands,News Outlet,Yes,Cookie-instellingen,Less intruiging color choice,"No, link",3,Yes,Bottom,Yes,No,Sneaking,No
+Metro,https://www.metronieuws.nl/,The Netherlands,News Outlet,Yes,Stel voorkeuren in,Less intruiging color choice,"No, link",7,Yes,Centre,Less Visible,"Yes, Mediahuis Nederland",Forced Action,No
+ND,https://www.nd.nl/,The Netherlands,News Outlet,Yes,Cookie instellingen aanpassen,Less intruiging color choice,"No, link",2,Yes,Top then Centre,Yes,No,Forced Action,No
+Newstral,https://newstral.com/nl,The Netherlands,News Outlet,Yes,Meer informatie,"Smaller, no box",No,N/A,No,Bottom,Yes,No,Obstruction,No
+NH,https://www.nhnieuws.nl/,The Netherlands,News Outlet,Yes,Instellingen beheren,Less intruiging color choice,"No, link",2,Yes,Top,Yes,No,Forced Action,No
+Nieuwsnl,https://nieuws.nl/,The Netherlands,News Outlet,Yes,Cookie-instellingen,"Smaller, no box","No, link",2,Yes,Centre,Yes,"Yes, OneTrust",Forced Action,No
+Noordhollandsdagblad,https://www.noordhollandsdagblad.nl/,The Netherlands,News Outlet,Yes,Stel voorkeuren in,Less intruiging color choice,"No, link",7,Yes,Centre,Less Visible,Yes. Mediahuis Nederland,Forced Action,No
+NOS,https://nos.nl/,The Netherlands,News Outlet,No,Meer uitleg,Hidden in info and small,N/A,N/A,No,Bottom,Yes,No,Obstruction,No
+NRZ,https://www.nrz-nl.nl/over-nrz/nieuws/,The Netherlands,News Outlet,Yes,Lees hier,Hidden and bold,No,N/A,No,Bottom,Yes,No,Obstruction,No
+NU,https://www.nu.nl/,The Netherlands,News Outlet,Yes,Instellen,Smaller,"No, link",2,Yes,Centre,Less Visible,"Yes, DPG Media",Forced Action,No
+OF,https://www.omroepflevoland.nl/nieuws#1,The Netherlands,News Outlet,Yes,Privacy instellingen,Less intruiging color choice,"No, link",2,Yes,Centre,Less Visible,No,Forced Action,No
+Politie,https://www.politie.nl/nieuws,The Netherlands,News Outlet,Yes,Weigeren,Less intruiging color choice,Yes,1,Yes,Bottom,Yes,No,Interface inference (color),No
+Rotterdam,https://www.rotterdam.nl/nieuws/,The Netherlands,News Outlet,Yes,Lees meer over deze cookies,Hidden and underlined,No,2,Yes,Bottom,Yes,No,Sneaking,No
+RTL,https://www.rtlnieuws.nl/,The Netherlands,News Outlet,Yes,Cookie instellingen aanpassen,"Smaller, no box","No, link",2,Yes,Centre,Yes,No,Forced Action,No
+SRA,https://www.sra.nl/nieuwsbank,The Netherlands,News Outlet,Yes,hier,Hidden in info and small,"No, link",N/A,No,Bottom,Yes,No,Obstruction,No
+Stedelijk,https://www.stedelijk.nl/nl/nieuws-pers,The Netherlands,News Outlet,Yes,Instellingen,Hidden in info and small,"No, link",5,Yes,Bottom,Yes,No,Sneaking,No
+Utwente,https://www.utwente.nl/nieuws/,The Netherlands,News Outlet,Yes,Cookie-instellingen,Similar,No,2,Yes,Top,Yes,No,N/A,No
+Wos,https://wos.nl/nieuws,The Netherlands,News Outlet,Yes,Meer informatie over cookies,Hidden in info and small,N/A,N/A,No,Bottom,Yes,No,Obstruction,No
+,,,,,,,,,,,,,,
