@@ -1,0 +1,32 @@
+﻿Key,Link,Country,Type of website,"""not-yes"" option available","label of ""not-yes option""","""not-yes"" option similarity",Immediate visibility deny option,Number of clicks needed to deny consent,Accessibility after deny option,Location consent notice,Content visibility,Third-party involved,Dark pattern strategy,"""are you sure"" message"
+AD,https://www.ad.nl/,The Netherlands,News outlet,Yes,Instellen,Less intruiging color choice,"No, link",2,Yes,Centre to bottom,Not visible because the notice almost uses the whole screen.,"Yes, DPG Media",Forced Action,No
+Computable,https://www.computable.nl/,The Netherlands,News outlet,Yes,Weigeren,"Smaller, no box",Yes,1,Yes,Centre to bottom,Not visible because the notice almost uses the whole screen.,No,Interface inference,No
+Detelegraaf,https://www.telegraaf.nl/,The Netherlands,News outlet,Yes,Stel voorkeuren in,Aanpassen,"No, link",7,Yes,Whole screen,Not visible because the notice basically uses the whole screen.,"Yes, Mediahuis Nederland",Forced Action,No
+Groenlinks,https://groenlinks.nl/nieuws,The Netherlands,News outlet,Yes,Lees meer en stel voorkeuren in,Hidden in info and small,"No, link",3,Yes,Bottom,Visbile half,No,Sneaking,No
+KNVB,https://www.knvb.nl/knvb_node/nieuws,The Netherlands,News outlet,Yes,Cookie-instellingen,Less intruiging color choice,"No, link",3,Yes,Bottom,Visbile half,No,Sneaking,No
+Nieuwsnl,https://nieuws.nl/,The Netherlands,News outlet,Yes,Cookie-instellingen,Less intruiging color choice,"No, link",2,Yes,Whole screen,Not visible because the notice basically uses the whole screen.,"Yes, OneTrust",Forced Action,No
+Noordhollandsdagblad,https://www.noordhollandsdagblad.nl/,The Netherlands,News outlet,Yes,Stel voorkeuren in,Less intruiging color choice,Yes,7,Yes,Whole screen,Not visible because the notice basically uses the whole screen.,"Yes, Mediahuis Nederland",Forced Action,No
+NOS,https://nos.nl/,The Netherlands,News outlet,No,Meer uitleg,Hidden in info and small,Not available,Cannot deny consent,No,Bottom,Visible,No,Obstruction,No
+NRZ,https://www.nrz-nl.nl/over-nrz/nieuws/,The Netherlands,News outlet,Yes,Lees hier,Hidden and bold,"No, link",Cannot deny consent,No,Bottom,Visible half,No,Obstruction,No
+RTL,https://www.rtlnieuws.nl/,The Netherlands,News outlet,Yes,Cookie-instellingen aanpassen,Hidden in info and small,"No, link",2,Yes, Centre,Not visible because the notice almost uses the whole screen.,No,Forced Action,No
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
